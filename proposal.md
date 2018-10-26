@@ -64,15 +64,23 @@ hash table implmentation that assigns an array to each place in the map.  The ar
 *Example1:* 101, ABlah, e, a    
 *Example2:* 101, BBlah, b, c    
 *Example3:* 101, CBlah, f,    
-  * `for cancelling fights:` flight number, passenger's name    
+  * `for cancelling fights for passenger:` flight number, passenger's name    
 *Example:* 101, ABlah  
   * `for searching passenger's information:` flight number, passenger's name  
 *Example:* 101, BBlah  
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
-
-
+4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.  
+  * Start Menu  
+|   ADMIN   |`enter the function of administrator`  
+|   USERS   |`enter the function of users`  
+  * ADMIN  
+|     ADD FLIGHTS    |`create and add a new flight to the system`  
+|   REMOVE FLIGHTS   |`delete a flight record from the system`  
+|   SEARCH FLIGHTS   |`display detailed information about a specific flight`  
+  * USERS  
+|    BOOK FLIGHTS    |`add a passenger to some flight, and return seat number`  
+|   CANCEL FLIGHTS   |`delete the passenger's filght record from some specific flight`  
+|  ORDER INFORMATION |`display detailed information about of a passenger`    
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
 
