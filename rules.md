@@ -9,8 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
+We'll assign tasks on a volunteer basis first and then divy up the rest
+based on the amount of work that each person is already doing, keeping things balanced.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
