@@ -14,9 +14,6 @@
    * When did you complete this exercise? 
        * 26 October 2018 - 27 October 2018
    * How long did it take your team to complete this exercise? 
-   
-   Test  
-   Test
 
 ## Table of Contents
 
