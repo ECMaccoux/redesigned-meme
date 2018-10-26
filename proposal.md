@@ -42,11 +42,11 @@ AirlineHashTable
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.  
    
-*Print Manifest: Prints a list of passengers (either in seat-number order or alphabetical)  
+Print Manifest: Prints a list of passengers (either in seat-number order or alphabetical)  
 *Example 1:* FLIGHT 99 SEAT NUMBER MANIFEST: 1: CBlah, 2: ABlah, 3: DBlah, 4: BBlah,...  
 *Example 2:* FLIGHT 99 ALPHABETICAL MANIFEST: 1: ABlah, 2: BBlah, 3: CBlah, 4: DBlah,... 
   
-*Print Flights: Prints flight numbers in ascending order  
+Print Flights: Prints flight numbers in ascending order  
 *Example:* FLIGHTS: Flight 1, Flight 2, Flight 3,...
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
