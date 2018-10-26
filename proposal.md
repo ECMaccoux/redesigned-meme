@@ -51,7 +51,23 @@ hash table implmentation that assigns an array to each place in the map.  The ar
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+**Data Needed:**
 
+  * `for adding flights:` flight number, aircraft type, number of seats, from city, to city, departure date   
+*Example:* 101, Boeing 777, 100, Madison, Seattle, 11/01/2018  
+  * `for removing flights:` flight number  
+*Example:* 101  
+  * `for searching flights:` flight number  
+*Example:* 101  
+
+  * `for booking fights for passengers:` flight number, passenger's name, flight class, seat choice  
+*Example1:* 101, ABlah, e, a    
+*Example2:* 101, BBlah, b, c    
+*Example3:* 101, CBlah, f,    
+  * `for cancelling fights:` flight number, passenger's name    
+*Example:* 101, ABlah  
+  * `for searching passenger's information:` flight number, passenger's name  
+*Example:* 101, BBlah  
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
