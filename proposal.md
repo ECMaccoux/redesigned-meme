@@ -45,7 +45,9 @@ Airline AVL
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.  
+Print Manifest: Prints a list of passengers (either in seat-number order or alphabetical)  
+Print Flights: Prints flight numbers in ascending order
 
 
 
