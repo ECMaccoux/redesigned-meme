@@ -7,10 +7,10 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * *GitHub username 1:* JT175         *name 1:* Jordan Nelson
-       * *GitHub username 2*: dpatel39      *name 2:* Druchita Patel
-       * GitHub username 3: cloverWizard  name 3: Pujin Ning
-       * GitHub username 4: ECMaccoux     name 4: Eric Maccoux
+       * **GitHub username 1:** JT175         **name 1:** Jordan Nelson
+       * **GitHub username 2:** dpatel39      **name 2:** Druchita Patel
+       * **GitHub username 3:** cloverWizard  **name 3:** Pujin Ning
+       * **GitHub username 4:** ECMaccoux     **name 4:** Eric Maccoux
    * When did you complete this exercise? 
        * 26 October 2018 - 27 October 2018
    * How long did it take your team to complete this exercise? 
