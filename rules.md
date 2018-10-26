@@ -12,11 +12,11 @@ and missed deadlines.
 We'll assign tasks on a volunteer basis first and then divy up the rest
 based on the amount of work that each person is already doing, keeping things balanced.
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How we will track progress (and follow-up) on completion of tasks
+Progress will be tracked through gitHub, WhatsApp, and in-person meetings when necessary.
 
 
-
-## How will will communicate difficulties with a task assigned to us
+## How we will communicate difficulties with a task assigned to us
 
 
 
