@@ -41,7 +41,6 @@ be sorted by seat letter/number.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)  
-
 Airline AVL
 
 
