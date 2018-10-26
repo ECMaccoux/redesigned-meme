@@ -12,7 +12,7 @@
        * GitHub username 3: cloverWizard  name 3: Pujin Ning
        * GitHub username 4: ECMaccoux     name 4: Eric Maccoux
    * When did you complete this exercise? 
-       26 October 2018 - 27 October 2018
+       * 26 October 2018 - 27 October 2018
    * How long did it take your team to complete this exercise? 
 
 ## Table of Contents
