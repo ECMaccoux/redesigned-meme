@@ -32,6 +32,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.
 
+Our team would like to help airlines book passengers on their flights in an efficient manner.  To do this, we'll be used a custom
+AVL tree implmentation that assigns an array to each node.  The nodes represent flights, and each spot in the node's array represents
+a seat for a passenger to fill.  The tree will be sorted and balanced based on AVL specifications, the nodes would be based on a custom
+FlightNode class created by us, and the passengers would be based on a custom Passenger class created by us.  The arrays themselves will
+be sorted by seat letter/number.
+
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
