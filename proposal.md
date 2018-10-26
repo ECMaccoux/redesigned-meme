@@ -38,7 +38,7 @@ hash table implmentation that assigns an array to each place in the map.  The ar
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)  
-AirlineHashTable
+* AirlineHashTable
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.  
    
