@@ -81,12 +81,15 @@ hash table implmentation that assigns an array to each place in the map.  The ar
 |    BOOK FLIGHTS    |`add a passenger to some flight, and return seat number`  
 |   CANCEL FLIGHTS   |`delete the passenger's filght record from some specific flight`  
 |  ORDER INFORMATION |`display detailed information about of a passenger`    
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+for Dhruchita to do
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+* Passenger: represents a single passenger on a flight, keeps track of passenger's info (name, class, seat choice, etc.)
+* Flight: represents a flight, keeps track of flight's info (flight number, aircraft type, etc.)
+* AirlineHashTable: keeps track of all Flight/Passenger objects within a modified hash table format
 
 ## Edit and Submit this file and any figures referenced by this document.
 
