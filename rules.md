@@ -17,14 +17,13 @@ Progress will be tracked through gitHub, WhatsApp, and in-person meetings when n
 
 
 ## How we will communicate difficulties with a task assigned to us
-
+for Clover to do
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+for Dhruchita to do
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-
-
-
+1. Always communicate over WhatsApp with what has been/needs to be done
+2. We should have weekly meetings to touch base and talk about difficult problems that we need ot solve.
