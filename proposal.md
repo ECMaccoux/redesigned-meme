@@ -83,7 +83,23 @@ hash table implmentation that assigns an array to each place in the map.  The ar
 |  ORDER INFORMATION |`display detailed information about of a passenger`    
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-for Dhruchita to do
+
+  * For Flights
+  - insertFlight      'insert a flight info (admin)
+  - deleteFlight      ' delete a flight info (admin)
+  - lookUpFlight      ' access the information of a certain flight (admin and user)
+  - isEmptyFlight     ' check if the hash table / array is empty? return true if empty
+  - findFlightIndex   ' find the index of a flight in hash table, to be used in other methods (Insert, Delete, LookUp, etc.)
+  - reHashFlight      ' re-hashing the table
+  - editFlight        ' edit a flight info
+  
+  * For Passengers
+  - insertPassenger      ' insert a passenger into passenger list of a flight
+  - deletePassenger      ' delete a passenger when a reservation is cancelled
+  - lookUpPassenger      ' search for passenger in reservation list of a flight
+  - isEmptyPassenger     ' check if the array / hash table is empty, return true if empty
+  - findPassengerIndex   ' find the index of the passenger in the passenger list 
+  
 
 
 Name each interface or class and briefly describe its function or purpose.
