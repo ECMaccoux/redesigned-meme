@@ -17,7 +17,9 @@ Progress will be tracked through gitHub, WhatsApp, and in-person meetings when n
 
 
 ## How we will communicate difficulties with a task assigned to us
-for Clover to do
+
+* All the team member will gather together, discuss the difficult parts and exchange ideas. 
+* Focus on only one problem a time, and then another, until everything is solved
 
 
 ## How we will back up each other to ensure that deadlines are not missed
